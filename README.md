@@ -1,6 +1,6 @@
-# Subo App Website
+<p align="center"><a href="http://subo.mobi" target="_blank"><img width="500"src="http://subo.mobi/assets/img/iphones-35.png"></a></p>
 
-[subo app](http://subo.mobi/assets/img/iphones-35.png)
+# Subo App Website
 
 ##About
 Superbet Lottery app is sales of Chinese lottery applications,
